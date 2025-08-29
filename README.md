@@ -12,7 +12,5 @@ This is a simple website deployed automatically using a CI/CD pipeline with GitH
 ## Live Demo
 
 The live website can be viewed at:  
+
 **https://AGM110.github.io/my-website/**
-
-
-
